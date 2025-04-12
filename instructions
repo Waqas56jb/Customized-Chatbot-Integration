@@ -11,4 +11,9 @@ step4:
     
       python filename.py 
 
+
+
+--------------------------   Integration with website of Chatbot -------------------
     
+    step 1- Create templates folder/static
+       create file for integration inside index.html
